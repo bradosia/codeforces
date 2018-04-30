@@ -1,0 +1,4 @@
+﻿  main.cpp
+f:\schoolcode\codeforces443d\codeforces443d\main.cpp(37): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+f:\schoolcode\codeforces443d\codeforces443d\main.cpp(59): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  Codeforces443D.vcxproj -> F:\schoolCode\Codeforces443D\Debug\Codeforces443D.exe
